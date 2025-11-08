@@ -225,7 +225,7 @@ const App = () => {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg shadow-sm focus:ring-accent focus:border-accent transition duration-150"
-                  placeholder="Jane Doe"
+                  placeholder="Enter you name"
                 />
               </div>
 
@@ -240,7 +240,7 @@ const App = () => {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg shadow-sm focus:ring-accent focus:border-accent transition duration-150"
-                  placeholder="you@example.com"
+                  placeholder="Enter your email"
                 />
               </div>
 
@@ -255,7 +255,7 @@ const App = () => {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg shadow-sm focus:ring-accent focus:border-accent transition duration-150"
-                  placeholder="I am looking for resources for..."
+                  placeholder="Enter message"
                 />
               </div>
 
